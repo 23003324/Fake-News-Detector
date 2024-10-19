@@ -1,7 +1,11 @@
 # Fake-News-Detector
+
 ##AIM:
+
 The aim of this project is to detect the Fake-News-Detector.
+
 ##PROCEDURE:
+
 1.Inbuilt all the libraries which is involved in the algorithm to detect the fake news such as 
 pandas which is used for analysis and manipulating.
 2.Numpy is used for numerical computing.
@@ -11,7 +15,9 @@ pandas which is used for analysis and manipulating.
 6. sklearn.feature_extraction.text is designed for converting text data into numerical feature vectors.
 7.sklearn.linear_model is used for is used as a linear modeling techniques in machine learning such as Linear Regression,Logistic Regression,Ridge and Lasso Regression and etc.
 8.sklearn.metric is  used for evaluating the performance of machine learning models such as Accuracy,Precision, Recall, F1-Score,Confusion Matrix,ROC Curve and AUC and Classification Report.
+
 ##ALGORITHM:
+
 1.Load the dataset.
 2. Label the data.
 3.Concatenate the two datasets.
@@ -92,7 +98,10 @@ plt.title('Confusion Matrix')
 plt.show()
 ```
 ##OUTPUT:
+
 ![Screenshot 2024-10-19 233250](https://github.com/user-attachments/assets/ab79c2ec-220a-4a18-8054-e0b1582d2970)
+
 ## RESULT:
+
 Thus the  model is tested on  accuracy, precision, recall, and F1-score.Real-Time using the given dataset.
 
