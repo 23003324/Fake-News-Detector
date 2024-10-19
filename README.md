@@ -122,5 +122,5 @@ plt.show()
 
 ## RESULT:
 
-Thus the  model is tested on  accuracy, precision, recall, and F1-score.Real-Time using the given dataset.
+Thus the  model is tested on  accuracy, precision, recall, and F1-score with natural language processing using the given dataset.
 
