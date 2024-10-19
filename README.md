@@ -2,7 +2,7 @@
 
 ## AIM:
 
-The aim of this project is to detect the Fake news.
+The aim of this project is to detect the Fake news using natural language processing based machine learning.
 
 ## PROCEDURE:
 ```
