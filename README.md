@@ -8,7 +8,6 @@ The aim of this project is to detect the Fake news.
 ```
 1.Inbuilt all the libraries which is involved in the algorithm to detect the fake news such as pandas which is used for analysis and manipulating.
 
-
 2.Numpy is used for numerical computing.
 
 3. matplotlib.pyplot  gives the data visualization as the output of the solution.
@@ -22,6 +21,7 @@ The aim of this project is to detect the Fake news.
 7.sklearn.linear_model is used for is used as a linear modeling techniques in machine learning such as Linear Regression,Logistic Regression,Ridge and Lasso Regression and etc.
 
 8.sklearn.metric is  used for evaluating the performance of machine learning models such as Accuracy,Precision, Recall, F1-Score,Confusion Matrix,ROC Curve and AUC and Classification Report.
+
 ```
 
 ## ALGORITHM:
