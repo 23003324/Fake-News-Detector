@@ -2,7 +2,7 @@
 
 ## AIM:
 
-The aim of this project is to detect the Fake-News-Detector.
+The aim of this project is to detect the Fake news.
 
 ## PROCEDURE:
 ```
