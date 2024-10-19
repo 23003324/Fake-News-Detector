@@ -6,27 +6,43 @@ The aim of this project is to detect the Fake-News-Detector.
 
 ## PROCEDURE:
 
-1.Inbuilt all the libraries which is involved in the algorithm to detect the fake news such as 
-pandas which is used for analysis and manipulating.
+1.Inbuilt all the libraries which is involved in the algorithm to detect the fake news such as pandas which is used for analysis and manipulating.
+
+
 2.Numpy is used for numerical computing.
+
 3. matplotlib.pyplot  gives the data visualization as the output of the solution.
+   
 4.seaborn  provides a high-level interface for creating attractive and informative statistical graphics.
+
 5.sklearn.model_selection  is a model selection which is used for evaluation in machine learning.
+
 6. sklearn.feature_extraction.text is designed for converting text data into numerical feature vectors.
+
 7.sklearn.linear_model is used for is used as a linear modeling techniques in machine learning such as Linear Regression,Logistic Regression,Ridge and Lasso Regression and etc.
+
 8.sklearn.metric is  used for evaluating the performance of machine learning models such as Accuracy,Precision, Recall, F1-Score,Confusion Matrix,ROC Curve and AUC and Classification Report.
 
 ## ALGORITHM:
 
 1.Load the dataset.
+
 2. Label the data.
+   
 3.Concatenate the two datasets.
+
 4.Shuffle the dataset.
+
 5. Function to clean text.
+   
 6.Clean the text data.
+
 7.Split the dataset and Train-Test Split.
+
 8.Vectorize using TF-IDF.
+
 9. Initialize and train the model and predict on the test set.
+    
 10.Evaluate the model and plot confusion matrix.
 
 ## PROGRAM:
